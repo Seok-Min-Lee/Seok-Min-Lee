@@ -19,7 +19,7 @@
 ### ETC ###
 <img src="https://img.shields.io/badge/JAVA-FF0000?style=flat-square"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=Blender&logoColor=white"/> <img src="https://img.shields.io/badge/Navisworks-FF0000?style=flat-square"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seok-Min-Lee&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seok-Min-Lee&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seok-Min-Lee)](https://github.com/Seok-Min-Lee/github-readme-stats)
 
 
