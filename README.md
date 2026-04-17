@@ -1,10 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Unity-Developer)
 ## 개요
-- 미디어 전시 분야 Unity 기반 인터랙티브 콘텐츠 개발 (2년 9개월) </br>
-- 플랜트 건설 분야 .NET 기반 도면 인식 엔진 개발 (1년 3개월) </br>
+- 2022.10~2025.07 미디어 전시 분야 Unity 기반 인터랙티브 콘텐츠 개발 </br>
+- 2020.11~2022.02 플랜트 건설 분야 .NET 기반 도면 인식 엔진 개발 </br>
 - C# 기반 객체지향 설계를 바탕으로 센서 연동, 네트워크 통신, DB 연계를 통해 실시간 데이터 처리와 안정적인 시스템 구현을 담당
-  
+
 ## 기술 스택
 
 <table>
@@ -75,8 +75,9 @@
 </table>
 
 ## 프로젝트
+- [[하데스 라이크 액션 게임]](https://github.com/Seok-Min-Lee/Pluto) Unity-MCP-Antigravity 워크플로우 기반 개발 진행중
+- [[Slay the Spire 라이크 덱빌딩 게임]](https://github.com/Seok-Min-Lee/fate-of-the-faint)  
 ![fate-of-the-faint](https://github.com/Seok-Min-Lee/fate-of-the-faint/blob/main/Docs/Previews/Attack-Card-Play.gif)  
-[└ Repository](https://github.com/Seok-Min-Lee/fate-of-the-faint)  
 
 ## ETC
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seok-Min-Lee&show_icons=true&theme=transparent)
