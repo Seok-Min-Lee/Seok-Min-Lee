@@ -75,10 +75,11 @@
 </table>
 
 ## 프로젝트
-- [[하데스 라이크 액션 게임]](https://github.com/Seok-Min-Lee/Pluto) Unity-MCP-Antigravity 워크플로우 기반 개발 진행중
+- [키오스크 미디어월 예제 (실시간 비정형 레이아웃 생성)](https://github.com/Seok-Min-Lee/PP_03_02_GridWall)  
+![](https://github.com/Seok-Min-Lee/PP_03_02_GridWall/blob/main/Docs/Preview.gif)
 - [[Slay the Spire 라이크 덱빌딩 게임]](https://github.com/Seok-Min-Lee/fate-of-the-faint)  
 ![fate-of-the-faint](https://github.com/Seok-Min-Lee/fate-of-the-faint/blob/main/Docs/Previews/Attack-Card-Play.gif)  
-
+- [[하데스 라이크 액션 게임]](https://github.com/Seok-Min-Lee/Pluto) Unity-MCP-Antigravity 워크플로우 기반 개발 진행중
 ## ETC
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seok-Min-Lee&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seok-Min-Lee)](https://github.com/Seok-Min-Lee/github-readme-stats)
