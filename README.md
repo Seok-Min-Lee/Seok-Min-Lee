@@ -74,12 +74,25 @@
   </tr>
 </table>
 
-## 프로젝트
-- [키오스크 미디어월 예제 (실시간 비정형 레이아웃 생성)](https://github.com/Seok-Min-Lee/PP_03_02_GridWall)  
+## 실무 프로젝트
+- [[피플리] 전시 시스템 구축 내용](https://github.com/Seok-Min-Lee/PP_00_00)
+
+<img src="https://github.com/Seok-Min-Lee/PP_00_00/blob/main/Docs/face-mask-3.gif" width="100%">
+
+<!--
+- [키오스크 미디어월 예제 (실시간 비정형 레이아웃 생성)](https://github.com/Seok-Min-Lee/PP_03_02_GridWall)
 ![](https://github.com/Seok-Min-Lee/PP_03_02_GridWall/blob/main/Docs/Preview.gif)
-- [[Slay the Spire 라이크 덱빌딩 게임]](https://github.com/Seok-Min-Lee/fate-of-the-faint)  
-![fate-of-the-faint](https://github.com/Seok-Min-Lee/fate-of-the-faint/blob/main/Docs/Previews/Attack-Card-Play.gif)  
+-->
+
+
+## 개인 프로젝트
+
+- [[Slay the Spire 라이크 덱빌딩 게임]](https://github.com/Seok-Min-Lee/fate-of-the-faint)
+
+<img src="https://github.com/Seok-Min-Lee/fate-of-the-faint/blob/main/Docs/Previews/Attack-Card-Play.gif" width="100%">
+
 - [[하데스 라이크 액션 게임]](https://github.com/Seok-Min-Lee/Pluto) Unity-MCP-Antigravity 워크플로우 기반 개발 진행중
+  
 ## ETC
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seok-Min-Lee&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seok-Min-Lee)](https://github.com/Seok-Min-Lee/github-readme-stats)
